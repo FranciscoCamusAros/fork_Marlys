@@ -8,8 +8,8 @@ body {
 }
 
 .container-width {
-  min-width: 22rem;
-  max-width: 40rem;
+  min-width: 18rem;
+  max-width: 60%;
 }
 
 .margin-top-button-card {
