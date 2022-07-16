@@ -1,7 +1,7 @@
-# Mi Curriculum Vitae 
-## Ejemplo para bootcamp de DesafíoLatam
+# Mi Portafolio
+## Trabajo "Desafío Final" para curso "Introducción al Desarrollo Web" del bootcamp de Desafío Latam
 
 Tecnologías usadas:
-- HTML5
-- CSS3
-- Git
+- HTML5 básico
+- CSS3 básico
+- Bootstrap 5.2
